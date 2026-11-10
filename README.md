@@ -50,13 +50,3 @@
 | [**intensive-delphi**](https://github.com/mateusvicente100/intensive-delphi) | Code samples from the Intensive Delphi events | ![stars](https://img.shields.io/github/stars/mateusvicente100/intensive-delphi?style=flat-square&color=yellow) |
 
 ---
-
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusvicente100/mateusvicente100/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusvicente100/mateusvicente100/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mateusvicente100/mateusvicente100/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<p align="center"><i>"Delphi is not dead, it just compiles faster than you can argue about it."</i> ⚡</p>
